@@ -1,4 +1,4 @@
-# AI-Powered Legal Contract Analyzer
+# [AI-Powered Legal Contract Analyzer] - (https://ai-powered-legal-contract-analyzer-lxyd5pzw7jrj5fcmpa9pze.streamlit.app/)
 
 A Streamlit app that analyzes PDF contracts using RAG and Groq's Llama 3.1 70B.
 
